@@ -1,7 +1,7 @@
 .container {
 	width: 1024px;
-  margin: 0 auto;
-
+/*  margin: 0 auto;
+*/
 	background-image: url("assets/images/dust_scrathches.png");	
 }
 body {
@@ -68,9 +68,7 @@ img {
 	width: 650px;
 	float: left;
 	padding: 15px 17px;
-	/*margin: 0 auto;*/
-	margin-right: 310px;
-
+	clear:left;
 }
 #sideBar {
 	background-color: white;
