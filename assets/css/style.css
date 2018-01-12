@@ -89,7 +89,7 @@ textarea, input {
 	margin: 5px 0px;
 
 }
-#sideBarImg {
+.sideBarImg {
 	height: 50px;
 	width: 50px;
 }
@@ -123,6 +123,7 @@ textarea, input {
 	background-color: white;
 	float: right;
 	width: 230px;
+	margin-top: 17px;
 	margin-right: 40px;
 	padding: 20px; 
 	
